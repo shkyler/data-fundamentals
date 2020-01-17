@@ -6,6 +6,7 @@ This repository to work through some fundamentals in data analytics and machine 
 
 The repository contains:
 * `logisticregression.ipynb` - a notebook for for working through a logisitic regression classifier example
+* `decisiontrees.ipynb` - a notebook working through a decision tree example
 * this `README.md` file
 
 ### Dependancies
@@ -18,6 +19,7 @@ The dependencies for project are:
 * scipy.stats
 * scikit learn
 * [Jupyter Notebooks](https://jupyter.org/)
+* pydotplus
 
 It is recommended that the latest version of [Anaconda](https://www.anaconda.com/) is installed to ensure that all dependant software is installed and up to date.
 
